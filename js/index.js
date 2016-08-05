@@ -40,7 +40,7 @@ function game(){
      this.objscene=document.getElementsByClassName("scene")[0];
      this.objshengming=document.getElementById("shengming");
      this.objfenshu=document.getElementById("fenshu");
-     this.arr=[{"A.png":"A"},{"B.png":"B"},{"C.png":"C"},{"D.png":"D"},{"E.png":"E"},{"F.png":"F"},{"G.png":"G"},{"H.png":"H"},{"I.png":"I"},{"J.png":"J"},{"K.png":"K"},{"L.png":"L"},{"M.png":"M"},{"N.png":"N"},{"O.png":"O"},{"P.png":"P"},{"Q.png":"Q"},{"R.png":"R"},{"S.png":"S"},{"T.png":"T"},{"U.png":"U"},{"V.png":"V"},{"W.png":"W"},{"X.png":"X"},{"Y.png":"Y"},{"Z.png":"Z"}];
+     this.arr=[{"a.png":"A"},{"b.png":"B"},{"c.png":"C"},{"d.png":"D"},{"e.png":"E"},{"f.png":"F"},{"g.png":"G"},{"h.png":"H"},{"i.png":"I"},{"j.png":"J"},{"k.png":"K"},{"l.png":"L"},{"m.png":"M"},{"n.png":"N"},{"o.png":"O"},{"p.png":"P"},{"q.png":"Q"},{"r.png":"R"},{"s.png":"S"},{"t.png":"T"},{"u.png":"U"},{"v.png":"V"},{"w.png":"W"},{"x.png":"X"},{"y.png":"Y"},{"z.png":"Z"}];
      this.currentarr=[];
      this.currentaobj=[];
      this.count=5;
